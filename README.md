@@ -1,2 +1,2 @@
 # eWing
- Final Year BCA Mini Project
+ Final Year BCA Project
