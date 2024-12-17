@@ -29,7 +29,7 @@ include 'components/wishlist_cart.php';
 
    <!-- custom css file link  -->
    <link rel="stylesheet" href="css/style.css">
-
+<link rel="icon" href="/img.ico" />
 </head>
 <body>
    
